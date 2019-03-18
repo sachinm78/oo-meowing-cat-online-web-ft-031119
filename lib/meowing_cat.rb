@@ -2,6 +2,8 @@
 
 
 class Cat 
+  attribute_accessor :name 
   
+  def 
   
 end 
